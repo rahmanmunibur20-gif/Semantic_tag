@@ -1,8 +1,12 @@
+body{
+    background-color: rgb(195, 215, 233);
+}
 nav ul{
     list-style: none;
 }
 nav ul li a{
     text-decoration: none;
+     color: rgb(49, 48, 48);
    
 }
 nav ul li{
@@ -11,4 +15,7 @@ nav ul li{
 }
 nav ul li:hover{
      background-color: aquamarine;
+}
+footer{
+    text-align: center;
 }
